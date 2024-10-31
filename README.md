@@ -1,4 +1,3 @@
-[![MasterHead](https://s2.ezgif.com/tmp/ezgif-2-49b7f67c3d.gif)]
 <h1 align="center">Hi 👋, I'm Pettem Amruthvarsh</h1>
 <h3 align="center">A passionate Datascience student from India</h3>
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif>
