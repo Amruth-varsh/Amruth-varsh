@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pettem Amruthvarsh</h1>
 <h3 align="center">A passionate Datascience student from India</h3>
-<img align="right" alt="Coding" width="200" src=https://miro.medium.com/v2/resize:fit:1400/0*W5_WMS72vBn74iqs.gif>
+<img align="right" alt="Coding" width="200" height ="200" src=https://miro.medium.com/v2/resize:fit:1400/0*W5_WMS72vBn74iqs.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruth-varsh&label=Profile%20views&color=0e75b6&style=flat" alt="amruth-varsh" /> </p>
 
