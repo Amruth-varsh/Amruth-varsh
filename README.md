@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruth-varsh&label=Profile%20views&color=0e75b6&style=flat" alt="amruth-varsh" /> </p>
 
+- 🎓 I'm Currently a final year student CS VBIT'(25)
+
 - 🔭 I’m currently working on **Artificial Intelligence Project**
 
 - 📫 How to reach me **pettemamruthvarsh@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
