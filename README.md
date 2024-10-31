@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pettem Amruthvarsh</h1>
 <h3 align="center">A passionate Datascience student from India</h3>
-<img align="right" alt="Coding" width="400" src=https://s2.ezgif.com/tmp/ezgif-2-bd4ed32718.gif>
+<img align="right" alt="Coding" width="400" height="200" src=https://s2.ezgif.com/tmp/ezgif-2-bd4ed32718.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruth-varsh&label=Profile%20views&color=0e75b6&style=flat" alt="amruth-varsh" /> </p>
 
@@ -11,6 +11,11 @@
 - 📫 How to reach me **pettemamruthvarsh@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+- 👋 About me :
+   I a motivated recent graduating with a degree in Computer Science. Eager to kickstart my career, I bring a solid foundation in problem-solving and a keen interest in technology trends. With a commitment to 
+   continuous learning, I am ready to contribute and grow in a dynamic professional environment. Open to opportunities that allow me to apply my knowledge and develop new skills. Let's connect to explore 
+   potential collaborations and opportunities.
 
 
 
