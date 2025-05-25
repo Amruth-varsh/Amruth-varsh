@@ -6,7 +6,7 @@
 
 - 🎓 I'm Currently a final year student CS VBIT'(25)
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Artificial Intelligence Projects**
 
 - 📫 How to reach me **pettemamruthvarsh@gmail.com**
 
