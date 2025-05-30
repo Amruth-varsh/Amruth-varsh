@@ -1,14 +1,34 @@
-# 💫 Hi 👋, I'm Amruthvarsh
-**A passionate Datascientist || ML Engineer || AI Engineer**
+![image](https://github.com/Amruth-varsh/Amruth-varsh/blob/main/DSC06482.jpg)<!-- GIF SECTION -->
+<div style="display: flex; justify-content: center; ">
+<!--     <img src="" height="auto" width="auto" /> -->
+</div>
+<br>
 
+<!-- HELLO SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amruthvarsh" alt="HELLO SECTION">
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20"> Datascientist   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="20"> AI ML Engineer <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="20"> Tech Lover</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
+
+<!-- <div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="https://media1.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif?cid=6c09b952xez7nlw7p7v21pu2vq5schadr5btdsq75f7nznd7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g " height="300" width="250">
+    </div> -->
+ 
 
 Email Me 👉 ✉️ **pettemamruthvarsh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 🔭 **I’m currently working on:** Datascience 
-- 🌱 **I’m currently learning:** Frame works
+
+- 🔭 **I’m currently working on:** Datascience
+- 🌱 **I’m currently learning:** Frameworks
+- 👯 **I’m looking to collaborate on:** Data related projects
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** pettemamruthvarsh@gmail.com
 - 😄 **Pronouns:** Amruthh
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I'm a techiee
 
 
 
