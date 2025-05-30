@@ -3,7 +3,7 @@
 
 
 Email Me 👉 ✉️ **pettemamruthvarsh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 🔭 **I’m currently working on:** DS 
+- 🔭 **I’m currently working on:** Datascience 
 - 🌱 **I’m currently learning:** Frame works
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** pettemamruthvarsh@gmail.com
