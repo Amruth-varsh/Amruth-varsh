@@ -25,7 +25,7 @@ Email Me 👉 ✉️ **pettemamruthvarsh@gmail.com** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:** Datascience
 - 🌱 **I’m currently learning:** Frameworks
-- 👯 **I’m looking to collaborate on:** Datascience AI-ML related projects
+- 👯 **I’m looking to collaborate on:** Datascience , AI-ML related projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** Amruthh
 - ⚡ **Fun fact:** I'm a techiee
