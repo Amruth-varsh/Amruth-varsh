@@ -1,3 +1,4 @@
+
 ![image](https://github.com/Amruth-varsh/Amruth-varsh/blob/main/DSC06482.jpg)<!-- GIF SECTION -->
 <div style="display: flex; justify-content: center; ">
 <!--     <img src="" height="auto" width="auto" /> -->
