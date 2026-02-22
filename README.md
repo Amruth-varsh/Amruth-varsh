@@ -27,7 +27,7 @@ Email Me 👉 ✉️ **pettemamruthvarsh@gmail.com** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:** Advanced RAG System's , LLM Evaluation Frameworks.
 - 🌱 **I’m currently learning:** AI Agents (Tool-Calling + Autonomous Workflows) , MCP (Model Context Protocol) Integrations , Multi-Agent Architectures
-- 👯 **I’m looking to collaborate on:** GenAI-powered SaaS Products  , AI for FinTech / SpaceTech , Production-Grade ML Systems
+- 👯 **I’m looking to collaborate on:** Data Science & Applied Machine Learning Projects , Generative AI & LLM-based Applications
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** Amruthhvarshhhh
 - ⚡ **Fun fact:** I'm a techiee , Foodieee
